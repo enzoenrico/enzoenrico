@@ -8,4 +8,6 @@
 >
   >[Twitter](https://twitter.com/ky0uko__)
 
+[![Meu Status Github!](https://github-readme-stats.vercel.app/api?username=enzoenrico&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My repositories are free for use and study, but if you're forking anything or repurposing the code please contact me first, thanks
