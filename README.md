@@ -1,4 +1,4 @@
-# Full-stack developer and Security student, currently working from home on the "*uMirror*" project (you can check it out [here](https://github.com/enzoenrico/uMirrorSoftware))
+# Full-stack developer and software engineering student at PUCPR, currently working from home on the "*uMirror*" project (you can check it out [here](https://github.com/enzoenrico/uMirrorSoftware))
 
 >You can contact me through:
 >
