@@ -2,7 +2,7 @@
 
 # Sobre mim
 * 👾 Criador do projeto <a href="https://github.com/enzoenrico/uMirrorSoftware"> uMirror </a>!
-* ✍️ Sou um estudante de Engenharia de Software <a href="">@PUCPR </a>
+* ✍️ Sou um estudante de Engenharia de Software <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">@PUCPR </a>
 * 💻 Atualmente aberto para oportunidades de trabalho, sinta se livre para entrar em contato!
   > 📧 E-mail - e.enrico2005@gmail.com
   > 
@@ -22,7 +22,7 @@
 # Algumas conquistas
 * 🤖 Chegar aos top 2% na plataforma Tryhackme!
 <img src="https://tryhackme-badges.s3.amazonaws.com/potanha.png" alt="TryHackMe">
-* 💯 Completar meu Ensino Médio Técnico <a href="">@TECPUC </a>
+* 💯 Completar meu Ensino Médio Técnico <a href="https://www.tecpuc.com.br/tecnico-integrado-em-informatica/">@TECPUC </a>
 
 # Meus Status Github
 
