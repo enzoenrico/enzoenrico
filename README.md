@@ -1,5 +1,11 @@
 # 👋Hello, World!
 
+
+# Meus Status Github
+
+[![Meu Status Github!](https://github-readme-stats.vercel.app/api?username=enzoenrico&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Sobre mim
 * 👾 Criador do projeto <a href="https://github.com/enzoenrico/uMirrorSoftware"> uMirror </a>!
 * ✍️ Sou um estudante de Engenharia de Software <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">@PUCPR </a>
@@ -10,8 +16,8 @@
   > 
   > 📱 [Discord](https://discord.gg/YjGfgZBr2f)
   >
-  > 🤳 [Twitter](https://twitter.com/ky0uko__)
-* 🧑‍🎓 (Futuro) Engenheiro de Software com um lucar no coração por Python e Javascript!
+  
+* 🧑‍🎓 (Futuro) Engenheiro de Software com um lugar no coração por Python e Javascript!
 * 🛸 Entusiasta e apoiador de software Open-Source
 
 
@@ -25,10 +31,7 @@
 * 🤖 Chegar aos top 2% na plataforma Tryhackme!
 <img src="https://tryhackme-badges.s3.amazonaws.com/potanha.png" alt="TryHackMe">
 * 💯 Completar meu Ensino Médio Técnico <a href="https://www.tecpuc.com.br/tecnico-integrado-em-informatica/">@TECPUC </a>
+
 * 🧠 Acertar 100% no vestibular para Engenharia de Software
-
-# Meus Status Github
-
-[![Meu Status Github!](https://github-readme-stats.vercel.app/api?username=enzoenrico&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
