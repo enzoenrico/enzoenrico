@@ -9,12 +9,10 @@
 # Sobre mim
 * 👾 Criador do projeto <a href="https://github.com/enzoenrico/uMirrorSoftware"> uMirror </a>!
 * ✍️ Sou um estudante de Engenharia de Software <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">@PUCPR </a>
-* 💻 Atualmente aberto para oportunidades de trabalho, sinta se livre para entrar em contato!
+* 💻 Sempre aberto para novos projetos, sinta se livre para entrar em contato!
   > 💾 [Website](https://enzoenrico.vercel.app)
   >
   > 📧 E-mail - e.enrico2005@gmail.com
-  > 
-  > 📱 [Discord](https://discord.gg/YjGfgZBr2f)
   >
   
 * 🧑‍🎓 (Futuro) Engenheiro de Software com um lugar no coração por Python e Javascript!
