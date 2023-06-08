@@ -1,11 +1,5 @@
 # 👋Hello, World!
-
-
-# Meus Status Github
-
-[![Meu Status Github!](https://github-readme-stats.vercel.app/api?username=enzoenrico&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
+>Me chamo Enzo Enrico, sou um Desenvolvedor Full-Stack, Estudante e entusiasta de tudo que é tecnologia!
 # Sobre mim
 * 👾 Criador do projeto <a href="https://github.com/enzoenrico/uMirrorSoftware"> uMirror </a>!
 * ✍️ Sou um estudante de Engenharia de Software <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">@PUCPR </a>
