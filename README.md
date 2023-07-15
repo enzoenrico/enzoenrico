@@ -9,13 +9,13 @@
   > 📧 E-mail - e.enrico2005@gmail.com
   >
   
-* 🧑‍🎓 (Futuro) Engenheiro de Software com um lugar no coração por Python e Javascript!
+* 🧑‍🎓 (Futuro) Engenheiro de Software com um lugar no coração por Python e Typescript!
 * 🛸 Entusiasta e apoiador de software Open-Source
 
 
 <div align="center">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </div>
 
