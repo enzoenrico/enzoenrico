@@ -1,25 +1,23 @@
 # 👋Hello, World!
-> Me chamo Enzo Enrico, sou um Desenvolvedor Full-Stack, Estudante e entusiasta de tudo que é tecnologia!
+> My name is Enzo Enrico. I am a Full-Stack Developer, student, and technology enthusiast!
 
 <div align="center">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </div>
 
-# Sobre mim
-* 👾 Criador do projeto <a href="https://github.com/enzoenrico/uMirrorSoftware"> uMirror </a>!
-* ✍️ Sou um estudante de Engenharia de Software <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">@PUCPR </a>
-* 💻 Sempre aberto para novos projetos, sinta se livre para entrar em contato!
+# About Me
+* 👾 Creator of the project <a href="https://github.com/enzoenrico/uMirrorSoftware">uMirror</a>!
+* ✍️ I am a Software Engineering student at <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">PUCPR</a>.
+* 💻 Always open to new projects, feel free to get in touch!
   > 💾 [Website](https://enzoenrico.vercel.app)
   >
-  > 📧 E-mail - e.enrico2005@gmail.com
+  > 📧 Email - e.enrico2005@gmail.com
   >
 
-* Jogador de Hackathons, CTF's e LeetCode nas horas vagas!
+* I love participating in Hackathons, CTFs, and solving LeetCode problems in my free time!
   
  ![LeetCode Stats](https://leetcard.jacoblin.cool/potanha?theme=dark&font=Roboto&ext=activity)
-
-
