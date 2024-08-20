@@ -1,23 +1,49 @@
-# 👋Hello, World!
-> My name is Enzo Enrico. I am a Full-Stack Developer, student, and technology enthusiast!
+<br clear="both">
 
-<div align="center">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+###
+
+<img align="right" height="500" src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/991d6abc76afd418a80985876a715002.jpg"  />
+
+###
+
+<div style="background-color: #0d1117; padding: 20px; margin: 20px 0; color: white;" markdown="1">
+
+```
+▒▒▒░░░░░░░░░░▄▐░░░░
+▒░░░░░░▄▄▄░░▄██▄░░░
+░░░░░░▐▀█▀▌░░░░▀█▄░            > full-stack swe
+░░░░░░▐█▄█▌░░░░░░▀█▄           > certified cybersec
+░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀           > college student
+░░░░░▄▄▄██▀▀▀▀░░░░░            
+░░░░█▀▄▄▄█░▀▀░░░░░░
+░░░░▌░▄▄▄▐▌▀▀▀░░░░░
+░▄░▐░░░▄▄░█░▀▀░░░░░
+░▀█▌░░░▄░▀█▀░▀░░░░░
+░░░░░░░░▄▄▐▌▄▄░░░░░            >ky0uko___ @x
+░░░░░░░░▀███▀█░▄░░░
+░░░░░░░▐▌▀▄▀▄▀▐▄░░░
+░░░░░░░▐▀░░░░░░▐▌░░
+░░░░░░░█░░░░░░░░█░░
+░░░░░░▐▌░░░░░░░░░█░
+```
+
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:10px">
+                
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2234taxp7ayxbsvwbzaxzbmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)              
+            </td>
+            <td style="padding:10px">
+                <img src="https://widgetbite.com/stats/enzoenrico" alt="watching_count" />
+            </td>
+            <td style="padding:10px">
+              <img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=120 />
+            </td>
+        </tr>
+    </table>
 </div>
 
-# About Me
-* 👾 Creator of the project <a href="https://github.com/enzoenrico/uMirrorSoftware">uMirror</a>!
-* ✍️ I am a Software Engineering student at <a href="https://www.pucpr.br/cursos-graduacao/engenharia-de-software/">PUCPR</a>.
-* 💻 Always open to new projects, feel free to get in touch!
-  > 💾 [Website](https://enzoenrico.vercel.app)
-  >
-  > 📧 Email - e.enrico2005@gmail.com
-  >
+</div>
 
-* I love participating in Hackathons, CTFs, and solving LeetCode problems in my free time!
-  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/potanha?theme=dark&font=Roboto&ext=activity)
+###
