@@ -38,7 +38,7 @@
                 <img src="https://widgetbite.com/stats/enzoenrico" alt="watching_count" />
             </td>
             <td style="padding:10px">
-              <img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=100 />
+              <img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=80 />
             </td>
         </tr>
     </table>
