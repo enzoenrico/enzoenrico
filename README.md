@@ -1,12 +1,8 @@
-<br clear="both">
-
-###
-
 <img align="right" height="500" src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/991d6abc76afd418a80985876a715002.jpg"  />
 
 ###
 
-<div style="background-color: #0d1117; padding: 20px; margin: 20px 0; color: white;" markdown="1">
+<div style="background-color: #0d1117; padding: 10px; margin: 10px 0; color: white;" markdown="1">
 
 ```
 ▒▒▒░░░░░░░░░░▄▐░░░░
