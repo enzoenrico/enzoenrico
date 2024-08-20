@@ -1,4 +1,3 @@
-<img align="right" height="500" src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/991d6abc76afd418a80985876a715002.jpg"  />
 
 ###
 
