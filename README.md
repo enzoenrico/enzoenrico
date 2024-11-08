@@ -3,7 +3,7 @@
 
 <div style="background-color: #0d1117; padding: 10px; margin: 10px 0; color: white;" markdown="1">
 
-```
+``` 
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
 ░░░░░░▐▀█▀▌░░░░▀█▄░            > full-stack swe
@@ -13,15 +13,15 @@
 ░░░░█▀▄▄▄█░▀▀░░░░░░
 ░░░░▌░▄▄▄▐▌▀▀▀░░░░░
 ░▄░▐░░░▄▄░█░▀▀░░░░░
-░▀█▌░░░▄░▀█▀░▀░░░░░
-░░░░░░░░▀███▀█░▄░░░
+░▀█▌░░░▄░▀█▀░▀░░░░░            
+░░░░░░░░▀███▀█░▄░░░            
 ░░░░░░░▐▌▀▄▀▄▀▐▄░░░
 ░░░░░░░▐▀░░░░░░▐▌░░
 ░░░░░░░█░░░░░░░░█░░
 ░░░░░░▐▌░░░░░░░░░█░
 ```
-> [ky0uko___  @x]("https://x.com/ky0uko___")
-> [website]("https://enzoenrico.vercel.app")
+
+
 
 
 <div id="image-table" align="center">
@@ -35,7 +35,10 @@
                 <img src="https://widgetbite.com/stats/enzoenrico" alt="watching_count" width=200 />
             </td>
             <td style="padding:10px">
-              <img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=80 />
+              <a href="https://x.com/ky0uko___"><img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=80 /></a>
+              <li>
+              <a href="https://enzoenrico.vercel.app">website</a>
+              </li>
             </td>
         </tr>
     </table>
