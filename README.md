@@ -35,7 +35,7 @@
                 <img src="https://widgetbite.com/stats/enzoenrico" alt="watching_count" width=200 />
             </td>
             <td style="padding:10px">
-              <a href="https://x.com/ky0uko___"><img src="https://raw.githubusercontent.com/enzoenrico/enzoenrico/main/pixel-lain.gif" width=80 /></a>
+              <a href="https://x.com/ky0uko___"><img src="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif?raw=true" width=80 /></a>
               <li>
               <a href="https://enzoenrico.vercel.app">website</a>
               </li>
