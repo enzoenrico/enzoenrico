@@ -7,7 +7,7 @@
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
 ░░░░░░▐▀█▀▌░░░░▀█▄░            > full-stack swe
-░░░░░░▐█▄█▌░░░░░░▀█▄           > certified cybersec
+░░░░░░▐█▄█▌░░░░░░▀█▄           > student @apple developer academy
 ░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀           > college student
 ░░░░░▄▄▄██▀▀▀▀░░░░░            > computer nerd
 ░░░░█▀▄▄▄█░▀▀░░░░░░
