@@ -4,8 +4,8 @@
 >                        .:'  .:
 >              ,MMM8&&&.:'   .:'
 >             MMMMM88&&&&  .:'
->            MMMMM88&&&&&&:'       > I'm a software engineer, founder and nerd in my free time.
->            MMMMM88&&&&&&
+>            MMMMM88&&&&&&:'       > apple developer academy alumni, founder and full stack developer
+>            MMMMM88&&&&&&         
 >         .:MMMMM88&&&&&&
 >      .:'  MMMMM88&&&&
 >     .:'   .:'MMM8&&&'
