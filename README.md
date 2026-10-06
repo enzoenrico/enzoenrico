@@ -32,7 +32,7 @@
 - *Cursor além do código*, Cafe Cursor
 - *Using Foundation Models*, CocoaHeads
 
-I write on [Substack](https://enzoenric0.substack.com). I'm a Cursor ambassador and a Grok Bot ambassador. Outside of code, I'm training for an IRONMAN 70.3.
+I write on [Substack](https://enzoenric0.substack.com). I'm a SpaceX ambassador and Replit Campus Leader. Outside of code, I'm training for an IRONMAN 70.3.
 
 ## Find me
 
