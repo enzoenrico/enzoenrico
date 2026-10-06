@@ -1,17 +1,28 @@
 # Hi, I'm Enzo
 
-I'm an iOS developer in Curitiba, Brazil. During the day I build iOS apps at CITS / Mitel. The rest of the time I'm co-founder and CTO of [Pace3](https://pace3.app), a coaching platform for Brazilian running groups. I'm also studying Information Systems at PUCPR.
+>                            .::.
+>                        .:'  .:
+>              ,MMM8&&&.:'   .:'
+>             MMMMM88&&&&  .:'
+>            MMMMM88&&&&&&:'       > I'm a software engineer, founder and nerd in my free time.
+>            MMMMM88&&&&&&
+>         .:MMMMM88&&&&&&
+>      .:'  MMMMM88&&&&
+>     .:'   .:'MMM8&&&'
+>     :'  .:'
+>     '::'  
 
-I mostly write Swift and SwiftUI, plus TypeScript and Next.js for the web side of things. Lately a lot of my work is about wiring LLMs into real products: tool calling, agents, and the editor tooling around them.
 
-## Things I've built
 
-- **[NanInf](https://apps.apple.com/app/naninf/id6749869965)** ([code](https://github.com/enzoenrico/naninf)): a text RPG on the App Store where an AI dungeon master runs the story. It's built with SwiftUI, typed model tools, and Supabase auth with Apple/Google sign-in.
-- **[Pace3](https://pace3.app)**: running coaching software for coaches and their athletes. I'm the CTO. The code is private.
-- **[cursor.nvim](https://github.com/enzoenrico/cursor.nvim)**: a Neovim sidebar for the Cursor agent CLI. You can chat, edit a selection, apply diffs, and browse history without leaving the editor.
+
+## Projects
+
+- **[NanInf](https://apps.apple.com/app/naninf/id6749869965)** ([code](https://github.com/enzoenrico/naninf)): a text RPG on the App Store where an AI dungeon master runs the story. It's built with SwiftUI, typed model tools and the latest private cloud compute framework for free AI inference to users (being updated as we speak, if you want in the TestFlight, shoot me an email)
+- **[Pace3](https://pace3.app)**: running coaching software for coaches and their athletes. I'm the CTO. The code is private hehe sorryyy
+- **[cursor.nvim](https://github.com/enzoenrico/cursor.nvim)**: a Neovim sidebar for the Cursor agent CLI. You can chat, edit a selection, apply diffs, and browse history without leaving the editor. All open source
 - **[Cursor Cafe Curitiba](https://github.com/enzoenrico/cursor-cafe-landing)**: the site and shareable attendee badges for the Cursor Cafe community event in Curitiba (Jan 2026).
 - **[Starter_MVVMC](https://github.com/enzoenrico/Starter_MVVMC)**: a SwiftUI starter that uses MVVM with coordinators, plus a write-up on why navigation gets easier that way.
-- **[enzoenrico.com](https://enzoenrico.com)**: my portfolio. It's a Next.js monorepo on Vercel.
+- **[enzoenrico.com](https://enzoenrico.com)**: my portfolio!
 
 ## Talks and writing
 
