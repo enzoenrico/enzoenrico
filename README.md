@@ -1,51 +1,28 @@
+# Hi, I'm Enzo
 
-###
+I'm an iOS developer in Curitiba, Brazil. During the day I build iOS apps at CITS / Mitel. The rest of the time I'm co-founder and CTO of [Pace3](https://pace3.app), a coaching platform for Brazilian running groups. I'm also studying Information Systems at PUCPR.
 
-<div style="background-color: #0d1117; padding: 10px; margin: 10px 0; color: white;" markdown="1">
+I mostly write Swift and SwiftUI, plus TypeScript and Next.js for the web side of things. Lately a lot of my work is about wiring LLMs into real products: tool calling, agents, and the editor tooling around them.
 
-![](https://komarev.com/ghpvc/?username=enzoenrico&style=for-the-badge)
+## Things I've built
 
-``` 
-▒▒▒░░░░░░░░░░▄▐░░░░
-▒░░░░░░▄▄▄░░▄██▄░░░
-░░░░░░▐▀█▀▌░░░░▀█▄░            > full-stack swe
-░░░░░░▐█▄█▌░░░░░░▀█▄           > student @apple developer academy
-░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀           > college student
-░░░░░▄▄▄██▀▀▀▀░░░░░            > computer nerd
-░░░░█▀▄▄▄█░▀▀░░░░░░
-░░░░▌░▄▄▄▐▌▀▀▀░░░░░
-░▄░▐░░░▄▄░█░▀▀░░░░░
-░▀█▌░░░▄░▀█▀░▀░░░░░            
-░░░░░░░░▀███▀█░▄░░░            
-░░░░░░░▐▌▀▄▀▄▀▐▄░░░
-░░░░░░░▐▀░░░░░░▐▌░░
-░░░░░░░█░░░░░░░░█░░
-░░░░░░▐▌░░░░░░░░░█░
-```
+- **[NanInf](https://apps.apple.com/app/naninf/id6749869965)** ([code](https://github.com/enzoenrico/naninf)): a text RPG on the App Store where an AI dungeon master runs the story. It's built with SwiftUI, typed model tools, and Supabase auth with Apple/Google sign-in.
+- **[Pace3](https://pace3.app)**: running coaching software for coaches and their athletes. I'm the CTO. The code is private.
+- **[cursor.nvim](https://github.com/enzoenrico/cursor.nvim)**: a Neovim sidebar for the Cursor agent CLI. You can chat, edit a selection, apply diffs, and browse history without leaving the editor.
+- **[Cursor Cafe Curitiba](https://github.com/enzoenrico/cursor-cafe-landing)**: the site and shareable attendee badges for the Cursor Cafe community event in Curitiba (Jan 2026).
+- **[Starter_MVVMC](https://github.com/enzoenrico/Starter_MVVMC)**: a SwiftUI starter that uses MVVM with coordinators, plus a write-up on why navigation gets easier that way.
+- **[enzoenrico.com](https://enzoenrico.com)**: my portfolio. It's a Next.js monorepo on Vercel.
 
+## Talks and writing
 
+- *Grok Bot Build: Everyone can be a CTO now*, PUCPR, Oct 2026
+- *Replitando*, PoliWeek 2026
+- *Como criar a pior empresa do mundo* (how to build the world's worst company), PoliWeek 2026
+- *Cursor além do código*, Cafe Cursor
+- *Using Foundation Models*, CocoaHeads
 
+I write on [Substack](https://enzoenric0.substack.com). I'm a Cursor ambassador and a Grok Bot ambassador. Outside of code, I'm training for an IRONMAN 70.3.
 
-<div id="image-table" align="center">
-    <table>
-        <tr>
-            <td style="padding:20px">
-                
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2234taxp7ayxbsvwbzaxzbmnq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />            
-            </td>
-            <td style="padding:10px">
-              <a href="https://x.com/ky0uko___"><img src="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif?raw=true" width=80 /></a>
-              <li>
-              <a href="https://enzoenrico.vercel.app">website</a>
-              </li>
-            </td>
-        </tr>
-    </table>
-</div>
+## Find me
 
-</div>
-
-###
-
-
-
+[enzoenrico.com](https://enzoenrico.com) · [X @enzenri](https://x.com/enzenri) · [LinkedIn](https://www.linkedin.com/in/enzo-enrico-a71771242/) · [Substack](https://enzoenric0.substack.com)
