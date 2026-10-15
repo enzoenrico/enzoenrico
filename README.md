@@ -36,4 +36,4 @@ I write on [Substack](https://enzoenric0.substack.com). I'm a SpaceX ambassador 
 
 ## Find me
 
-[enzoenrico.com](https://enzoenrico.com) · [X @enzenri](https://x.com/enzenri) · [LinkedIn](https://www.linkedin.com/in/enzo-enrico-a71771242/) · [Substack](https://enzoenric0.substack.com)
+[enzoenrico.com](https://enzoenrico.com) · [X @enzoenrico](https://x.com/enzoenrico) · [LinkedIn](https://www.linkedin.com/in/enzo-enrico-a71771242/) · [Substack](https://enzoenric0.substack.com)
